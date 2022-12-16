@@ -1,0 +1,4 @@
+nltk==3.7
+streamlit==1.12.2
+textblob==0.17.1
+
